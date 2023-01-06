@@ -118,5 +118,6 @@
     <orderEntry type="library" name="Maven: io.netty:netty-transport:4.1.63.Final" level="project" />
     <orderEntry type="library" name="Maven: io.projectreactor:reactor-core:3.4.5" level="project" />
     <orderEntry type="library" name="Maven: org.reactivestreams:reactive-streams:1.0.3" level="project" />
+    <orderEntry type="library" name="Maven: error:error:unknown" level="project" />
   </component>
 </module>

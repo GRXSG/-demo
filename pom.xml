@@ -75,6 +75,12 @@
             <groupId>org.springframework.boot </groupId>
             <artifactId>spring-boot-starter-data-redis</artifactId>
         </dependency>
+
+        <dependency>
+            <groupld>org.springframework.boot</groupld>
+            <artifactld>spring-boot-starter-cache</artifactld>
+        </dependency>
+
     </dependencies>
 
     <build>
